@@ -1,0 +1,62 @@
+
+Attribute: Temperature
+
+	Mean: 18.810024 
+	Median: 18.780000
+	Standard Deviation: 5.815476
+
+	First Quartile: 14.410000 
+	Third Quartile: 22.890000 
+	Range: 36.763000 
+	Variance: 33.819759
+
+	AAD: 4.783258 
+	MAD: 4.270024 
+
+
+Attribute: Wind Speed
+
+	Mean: 1.959489 
+	Median: 0.086000
+	Standard Deviation: 2.348862
+
+	First Quartile: 0.078000 
+	Third Quartile: 4.915000 
+	Range: 6.433000 
+	Variance: 5.517152
+
+	AAD: 2.286955 
+	MAD: 1.888489 
+
+
+Attribute: Humidity
+
+	Mean: 68.259518 
+	Median: 69.860000
+	Standard Deviation: 15.551177
+
+	First Quartile: 58.310000 
+	Third Quartile: 81.400000 
+	Range: 83.460000 
+	Variance: 241.839112
+
+	AAD: 12.702686 
+	MAD: 11.749518 
+
+
+Attribute: Zone 1 Power Consumption
+
+	Mean: 32344.970564 
+	Median: 32265.920340
+	Standard Deviation: 7130.562564
+
+	First Quartile: 26310.668692 
+	Third Quartile: 37309.018185 
+	Range: 38308.698920 
+	Variance: 50844922.481950
+
+	AAD: 5925.006142 
+	MAD: 5519.441851 
+
+
+Attribute: Zone 3 Power Consumption

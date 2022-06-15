@@ -1,0 +1,75 @@
+
+Attribute: 1
+
+	Mean: 1.943503 
+	Median: 2.000000
+	Standard Deviation: 0.773991
+
+	First Quartile: 1.000000 
+	Third Quartile: 3.000000 
+	Range: 2.000000 
+	Variance: 0.599063
+
+	AAD: 0.618341 
+	MAD: 0.943503 
+
+
+Attribute: 1.71
+
+	Mean: 2.339887 
+	Median: 1.870000
+	Standard Deviation: 1.119314
+
+	First Quartile: 1.600000 
+	Third Quartile: 3.100000 
+	Range: 5.060000 
+	Variance: 1.252865
+
+	AAD: 0.922797 
+	MAD: 0.749887 
+
+
+Attribute: 15.6
+
+	Mean: 19.516949 
+	Median: 19.500000
+	Standard Deviation: 3.336071
+
+	First Quartile: 17.200000 
+	Third Quartile: 21.500000 
+	Range: 19.400000 
+	Variance: 11.129370
+
+	AAD: 2.588624 
+	MAD: 2.016949 
+
+
+Attribute: 2.8
+
+	Mean: 2.292260 
+	Median: 2.350000
+	Standard Deviation: 0.626465
+
+	First Quartile: 1.740000 
+	Third Quartile: 2.800000 
+	Range: 2.900000 
+	Variance: 0.392459
+
+	AAD: 0.536546 
+	MAD: 0.512260 
+
+
+Attribute: 2.29
+
+	Mean: 1.586949 
+	Median: 1.550000
+	Standard Deviation: 0.571545
+
+	First Quartile: 1.250000 
+	Third Quartile: 1.950000 
+	Range: 3.170000 
+	Variance: 0.326663
+
+	AAD: 0.444217 
+	MAD: 0.363051 
+
